@@ -1,0 +1,189 @@
+# Compatible with PASCAL Annotation Version 1.00
+Image filename : "PennFudanPed/PNGImages/FudanPed00001.png"
+Image size (X x Y x C) : 1920 x 1080 x 3
+Database : "The Penn-Fudan-Pedestrian Database"
+Objects with ground truth : 36 {  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking"  "PASpersonWalking" }
+# Note there may be some objects not included in the ground truth list for they are severe-occluded
+# or have very small size.
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for pedestrian 1 ("PASpersonWalking")
+Original label for object 1 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1130, 807) - (1204, 878)
+Pixel mask for object 1 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (914, 815) - (972, 917)
+Pixel mask for object 2 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (989, 849) - (1041, 920)
+Pixel mask for object 3 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 4 ("PASpersonWalking")
+Original label for object 4 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 4 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1100, 749) - (1149, 819)
+Pixel mask for object 4 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 5 ("PASpersonWalking")
+Original label for object 5 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 5 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (734, 844) - (779, 894)
+Pixel mask for object 5 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 6 ("PASpersonWalking")
+Original label for object 6 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 6 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (878, 579) - (939, 642)
+Pixel mask for object 6 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 7 ("PASpersonWalking")
+Original label for object 7 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 7 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (910, 529) - (1003, 582)
+Pixel mask for object 7 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 8 ("PASpersonWalking")
+Original label for object 8 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 8 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1172, 10) - (1217, 68)
+Pixel mask for object 8 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 9 ("PASpersonWalking")
+Original label for object 9 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 9 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1090, 350) - (1180, 425)
+Pixel mask for object 9 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 10 ("PASpersonWalking")
+Original label for object 10 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 10 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1160, 175) - (1203, 219)
+Pixel mask for object 10 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 11 ("PASpersonWalking")
+Original label for object 11 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 11 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1123, 144) - (1171, 209)
+Pixel mask for object 11 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 12 ("PASpersonWalking")
+Original label for object 12 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 12 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1078, 116) - (1139, 174)
+Pixel mask for object 12 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 13 ("PASpersonWalking")
+Original label for object 13 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 13 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1047, 463) - (1134, 536)
+Pixel mask for object 13 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 14 ("PASpersonWalking")
+Original label for object 14 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 14 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1068, 873) - (1182, 1035)
+Pixel mask for object 14 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 15 ("PASpersonWalking")
+Original label for object 15 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 15 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (818, 760) - (866, 841)
+Pixel mask for object 15 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 16 ("PASpersonWalking")
+Original label for object 16 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 16 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (848, 848) - (937, 1003)
+Pixel mask for object 16 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 17 ("PASpersonWalking")
+Original label for object 17 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 17 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (742, 438) - (823, 515)
+Pixel mask for object 17 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 18 ("PASpersonWalking")
+Original label for object 18 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 18 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (773, 75) - (832, 126)
+Pixel mask for object 18 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 19 ("PASpersonWalking")
+Original label for object 19 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 19 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (905, 274) - (958, 342)
+Pixel mask for object 19 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 20 ("PASpersonWalking")
+Original label for object 20 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 20 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (722, 368) - (800, 445)
+Pixel mask for object 20 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 21 ("PASpersonWalking")
+Original label for object 21 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 21 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (856, 153) - (923, 246)
+Pixel mask for object 21 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 22 ("PASpersonWalking")
+Original label for object 22 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 22 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (801, 123) - (870, 212)
+Pixel mask for object 22 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 23 ("PASpersonWalking")
+Original label for object 23 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 23 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (801, 198) - (914, 336)
+Pixel mask for object 23 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 24 ("PASpersonWalking")
+Original label for object 24 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 24 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (953, 160) - (1066, 407)
+Pixel mask for object 24 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 25 ("PASpersonWalking")
+Original label for object 25 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 25 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1100, 239) - (1214, 391)
+Pixel mask for object 25 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 26 ("PASpersonWalking")
+Original label for object 26 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 26 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1053, 357) - (1110, 468)
+Pixel mask for object 26 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 27 ("PASpersonWalking")
+Original label for object 27 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 27 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1167, 686) - (1231, 771)
+Pixel mask for object 27 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 28 ("PASpersonWalking")
+Original label for object 28 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 28 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (952, 773) - (1085, 846)
+Pixel mask for object 28 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 29 ("PASpersonWalking")
+Original label for object 29 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 29 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (853, 659) - (941, 787)
+Pixel mask for object 29 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 30 ("PASpersonWalking")
+Original label for object 30 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 30 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (711, 522) - (846, 660)
+Pixel mask for object 30 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 31 ("PASpersonWalking")
+Original label for object 31 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 31 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (986, 530) - (1217, 752)
+Pixel mask for object 31 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 32 ("PASpersonWalking")
+Original label for object 32 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 32 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (808, 361) - (980, 546)
+Pixel mask for object 32 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 33 ("PASpersonWalking")
+Original label for object 33 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 33 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (1072, 165) - (1128, 238)
+Pixel mask for object 33 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 34 ("PASpersonWalking")
+Original label for object 34 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 34 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (911, 101) - (967, 173)
+Pixel mask for object 34 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 35 ("PASpersonWalking")
+Original label for object 35 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 35 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (828, 54) - (901, 122)
+Pixel mask for object 35 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
+# Details for pedestrian 36 ("PASpersonWalking")
+Original label for object 36 "PASpersonWalking" : "PennFudanPed"
+Bounding box for object 36 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (954, 66) - (1061, 164)
+Pixel mask for object 36 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00008_mask.png"
+
